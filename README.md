@@ -142,16 +142,5 @@ Additionally, I achieved 1st place in Turkey in a national-level competition, re
     <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" alt="Snake_GitHub" >
 </p>
 
-<!-- GitHub Statistics -->
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliGaffarToksoy&theme=gotham" height="450" width="800"/>
-</p>
-
-<p align="center">
-  <img height="230" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBzYzZ1cTgzcjU3c2ZydGxmbXBiajIyeGpwaGRtdmE2b2VvaXRzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8Uyz68JpozWve/giphy.gif">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AliGaffarToksoy&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
-  <img height="150" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRib2x6ZWViZXBiZTF2M3V0NnQ0MGljNTQ5NXcxaTI5MDNwOGYxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e4dZcWPFtkhmKtmKIR/giphy.gif" style="transform: scaleX(-1);">
-</p>
 
 
