@@ -2,12 +2,13 @@
 
 <h1> 👋🏼Hi, I'm Ali Gaffar Toksoy</h1>
 
-Computer Engineering Student | Cloud & DevOps Enthusiast | AI & Data Science Background
+Junior Cloud & DevOps Engineer | AI & Data Science Background
 
-Computer Engineering student passionate about Cloud, DevOps, and AI-driven systems.
-I enjoy building scalable solutions and intelligent applications by combining my background in Artificial Intelligence and Data Science.
-I have gained experience through programs and internships with Huawei and Microsoft, while also working as a Red Bull Student Marketeer.
-Additionally, I achieved 1st place in Turkey in a national-level competition, reflecting my motivation to create impactful and innovative technologies.
+Cloud & DevOps Engineer with hands-on experience gained through internships at Microsoft and Huawei, where I worked on
+cloud native AI applications, RAG pipelines, and scalable backend systems using Azure OpenAI, Azure Maps, PyTorch, and
+FastAPI. Additionally, developed strong communication and leadership skills through part time work at Red Bull and community
+leadership roles in AWS Cloud Club and Huawei Student Developers. Passionate about automation, distributed systems, and
+building reliable infrastructure on AWS, Azure, Huawei Cloud and OCI.
 
 
 
